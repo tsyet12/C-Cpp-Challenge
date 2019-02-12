@@ -1,5 +1,7 @@
 # C++/C Code Challenge
 
+Sin Yong Teng
+
 On the way to Rank 1
 
 
