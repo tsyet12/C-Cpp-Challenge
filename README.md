@@ -1,6 +1,6 @@
 # C++/C Code Challenge
 
-Sin Yong Teng
+Author: Sin Yong Teng<l>
 
 On the way to Rank 1
 
