@@ -7,6 +7,6 @@ On the way to Rank 1
 Optimization Problems, Search Algorithms, Computational Optimization, Efficient Algorithmic Implementation, Multi-processing, Stochastic Problems, Incomplete Problems, Grey Problems
 
 
-![Screenshot](Cpp.png)
+![Screenshot](Cpp.PNG)
 
 
