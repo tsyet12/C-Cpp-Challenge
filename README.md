@@ -2,7 +2,7 @@
 
 Author: Sin Yong Teng<l>
 
-On the way to Rank 1
+
 
 
 <p>Topic:</p>
